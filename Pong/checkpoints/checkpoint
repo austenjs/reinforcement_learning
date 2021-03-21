@@ -1,6 +1,0 @@
-model_checkpoint_path: "pong_r1.ckpt-410"
-all_model_checkpoint_paths: "pong_r1.ckpt-260"
-all_model_checkpoint_paths: "pong_r1.ckpt-270"
-all_model_checkpoint_paths: "pong_r1.ckpt-280"
-all_model_checkpoint_paths: "pong_r1.ckpt-290"
-all_model_checkpoint_paths: "pong_r1.ckpt-410"
